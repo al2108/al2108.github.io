@@ -15,3 +15,11 @@ body {
 h2 {
   margin-top: 2em;
 }
+
+.info {
+  width: max-content;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  border-radius: 5px;
+}
